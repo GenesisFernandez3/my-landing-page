@@ -1,0 +1,38 @@
+.banner{
+    background-size: cover;
+    background-position: center;
+    padding: 130px 0;
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+    color: white
+}
+
+.container h1{
+    font-size: 40px;
+    text-shadow: 2px 2px 2px black;
+    color: #89c7d4;
+}
+
+.container p{
+    padding-bottom: 15px;
+    font-size: 25px;
+    color: #cedfe2;
+    text-shadow: 1px 1px 1px black;
+}
+
+.btn{
+    background-color: #87C0CD;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    transition: 1s;
+}
+
+.btn:hover{
+    background-color: #3a9aaf;
+}

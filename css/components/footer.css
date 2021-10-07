@@ -1,0 +1,33 @@
+.footer{
+    display: flex;
+    padding: 25px;
+    justify-content: space-between;
+    background-color: #6d858a;
+}
+
+.footer a{
+    color:#add6df;
+}
+
+.footer a:hover{
+    color:black;
+}
+
+.footer-links{
+    font-size: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-shadow: 1px 1px 1px black;
+}
+
+.footer-copyright{
+    font-weight: bold;
+    color: #add6df;
+    text-shadow: 1px 1px 1px black;
+}
+
+.fa-heart{
+    color: red
+}
